@@ -1,4 +1,4 @@
-## PostGIS-Custom
+## PostGIS-Custom [![GPL licensed](https://img.shields.io/badge/license-GPL-blue)](https://github.com/I1mran/PostGIS-Custom/edit/master/LICENSE)
 
 Postgres, PostGIS custom algorithm to make Hex Grid, Triangle Grid, Points Grid, Rectangle Grid.
 
